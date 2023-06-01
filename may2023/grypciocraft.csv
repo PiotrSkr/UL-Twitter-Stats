@@ -1,0 +1,62 @@
+tweet_id,date,social_context,user_name,real_name,user_link,user_img,user_verified,text,has_more_text,photos,videos,is_pinned,is_retweet,is_reply,replies,retweets,likes,views,quoted_tweet
+1663593111811915804,2023-05-30T17:08:00.000Z,,@grypciocraft,Grypciocraft Esports,grypciocraft,https://pbs.twimg.com/profile_images/1607719510399766529/Fyjb43-o_normal.jpg,True,A to tu ta bomba...,False,['https://pbs.twimg.com/ext_tw_video_thumb/1663592999605895170/pu/img/YJ3fMGO2AMp60TJ1.jpg'],"[{'thumbnail': 'https://pbs.twimg.com/ext_tw_video_thumb/1663592999605895170/pu/img/YJ3fMGO2AMp60TJ1.jpg', 'src': 'blob:https://twitter.com/0432b320-d31f-4681-bbe7-9bedeb31a2c6'}]",False,False,False,,,107,7756,"{'date': '2023-05-30T16:34:58.000Z', 'user_name': '@grypciocraft', 'real_name': 'Grypciocraft Esports', 'user_verified': True, 'text': 'ALE LEQU BOMBA', 'has_more_text': False, 'photos': ['https://pbs.twimg.com/ext_tw_video_thumb/1663584624079929353/pu/img/04UFf3LXuG4Ha-N7?format=jpg&name=240x240'], 'is_pinned': False, 'is_retweet': False, 'is_reply': False}"
+1663588319203033095,2023-05-30T16:48:57.000Z,,@grypciocraft,Grypciocraft Esports,grypciocraft,,True,"Coraz lepiej, postawiliśmy opór. Jutro to bierzemy
+
+#Ultraliga",False,,,False,False,False,,,28,953,
+1663584796583264257,2023-05-30T16:34:58.000Z,,@grypciocraft,Grypciocraft Esports,grypciocraft,,True,ALE LEQU BOMBA,False,,,False,False,False,2,3,102,14041,
+1663548337503764480,2023-05-30T14:10:05.000Z,,@grypciocraft,Grypciocraft Esports,grypciocraft,https://pbs.twimg.com/profile_images/1607719510399766529/Fyjb43-o_normal.jpg,True,,False,,,False,False,False,2,5,372,9119,
+1663513209121144832,2023-05-30T11:50:30.000Z,,@grypciocraft,Grypciocraft Esports,grypciocraft,https://pbs.twimg.com/profile_images/1607719510399766529/Fyjb43-o_normal.jpg,True,"Czy ten przystojniak wygląda, jakby miał dzisiaj przegrać?
+
+@grypciocraft  @exeed_poland
+:
+
+#GrypcioUltras #TylkoWygranko #Ultraliga",False,['https://pbs.twimg.com/media/FxX43GYXwAUKqsm?format=jpg&name=small'],,False,False,False,8,,96,4934,
+1663243100674719749,2023-05-29T17:57:11.000Z,,@grypciocraft,Grypciocraft Esports,grypciocraft,https://pbs.twimg.com/profile_images/1607719510399766529/Fyjb43-o_normal.jpg,True,"Nie ma tragedii, do jutra musimy poprawić jedynie draft, early game, late game, objectivy, macro, buildy i teamfighty. Dotrzemy",False,['https://pbs.twimg.com/media/FxUFNsVWAAkZILc?format=jpg&name=small'],,False,False,False,10,,162,4938,
+1663242749913464839,2023-05-29T17:55:47.000Z,,@grypciocraft,Grypciocraft Esports,grypciocraft,https://pbs.twimg.com/profile_images/1607719510399766529/Fyjb43-o_normal.jpg,True,.@LolRibu za silny,False,,,False,False,False,,,27,959,
+1663175450351357952,2023-05-29T13:28:22.000Z,,@grypciocraft,Grypciocraft Esports,grypciocraft,,True,,False,,,False,False,False,,,152,3997,
+1663136442011328512,2023-05-29T10:53:22.000Z,,@grypciocraft,Grypciocraft Esports,grypciocraft,,True,"Graficzka fresz
+@DomolesLOL fresz
+Lecimy z tą @ultraliga
+
+@grypciocraft  @_ForsakenGG_
+:
+
+#GrypcioUltras #TylkoWygranko #Ultraliga",False,,,False,False,False,4,,50,2420,
+1663111849653460993,2023-05-29T09:15:38.000Z,,@grypciocraft,Grypciocraft Esports,grypciocraft,,True,"Za naszych dwóch kryminalistów na pierwsze dwa mecze wpadną @mis723lol oraz @xCharm1! Siemano chłopaki!
+
+#Ultraliga #GrypcioUltras",False,,,False,False,False,6,,97,4967,
+1662885281828052993,2023-05-28T18:15:20.000Z,,@grypciocraft,Grypciocraft Esports,grypciocraft,,True,GG LEQU MISTRZ LEQU MISTRZ #xayoocup,False,,,False,False,False,4,2,297,12735,
+1662097105018601475,2023-05-26T14:03:24.000Z,,@grypciocraft,Grypciocraft Esports,grypciocraft,,True,"proszę kolega, akceptuj, w tą grze jesteś, pies #xayoocup",False,,,False,False,False,18,88,1449,56307,
+1661818053942734850,2023-05-25T19:34:33.000Z,,@grypciocraft,Grypciocraft Esports,grypciocraft,,True,BOMBA W XAYOO CUPIE OOO,False,,,False,False,False,2,4,267,24834,"{'date': '2023-05-25T19:25:41.000Z', 'user_name': '@XayooPodloga', 'real_name': 'Marcin ""Xayoo"" Majkut', 'user_verified': False, 'text': 'Dodatkowa informacja:\npo finale wybrany zostanie MVP całego turnieju, który zgarnie dodatkowe 2000 PLN :)\n#xayoocup', 'has_more_text': False, 'is_pinned': False, 'is_retweet': False, 'is_reply': False}"
+1660682791334363156,2023-05-22T16:23:26.000Z,,@grypciocraft,Grypciocraft Esports,grypciocraft,,True,"Jak już @CzarnyPiotrus10 zdążył zauważyć, właśnie wleciał nowiutki odcinek cotygodniowych newsów na nasz kanał na youtubie!
+
+Wbijaj i zostawiaj łapę ziomek, pozdro!",False,,,False,False,False,,,43,3659,"{'date': '2023-05-22T16:13:17.000Z', 'user_name': '@CzarnyPiotrus10', 'real_name': 'Piotr ""CzarnyPiotruś"" Barański', 'user_verified': False, 'text': 'Nie ma za co chłopaki, polecam się na przyszłość! @grypciocraft', 'has_more_text': False, 'is_pinned': False, 'is_retweet': False, 'is_reply': False}"
+1659866243422142464,2023-05-20T10:18:45.000Z,,@grypciocraft,Grypciocraft Esports,grypciocraft,,True,"Pierwszy transfer Grypciocraft staje się faktem!
+
+Dziękujemy za wszystko i powodzenia w przyszłym sezonie @primee111111!",False,,,False,False,False,,,59,3277,"{'date': '2023-05-20T10:02:10.000Z', 'user_name': '@AnonymoEsports', 'real_name': 'Anonymo Esports', 'user_verified': True, 'text': 'Orbit Anonymo gotowe do gry! \nUtrzymujemy trzon składu na kolejny sezon Ultraligi, oraz na zasadzie transferu z @grypciocraft dołącza do nas @primee111111.', 'has_more_text': False, 'is_pinned': False, 'is_retweet': False, 'is_reply': False}"
+1659849092216901633,2023-05-20T09:10:36.000Z,,@grypciocraft,Grypciocraft Esports,grypciocraft,,True,Nowy skład Forsaken poprosił @LeQuLoL o wspólna fotkę,False,,,False,False,False,22,7,439,14080,
+1659814634939899904,2023-05-20T06:53:41.000Z,,@grypciocraft,Grypciocraft Esports,grypciocraft,,True,Miłego dzionka,False,,,False,False,False,6,,93,5371,
+1659555370132439040,2023-05-19T13:43:27.000Z,,@grypciocraft,Grypciocraft Esports,grypciocraft,,True,"A już za parę dni zapraszamy Was na nasze spotkania w @ultraliga razem z Tymi ananasami!
+
+ @LeQuLoL
+ @Diagu_
+ @DomolesLOL
+ @damkeex
+ @iGepard_
+
+ @JestemMaruzeL",False,,,False,False,False,,,72,1722,
+1659555365376126976,2023-05-19T13:43:26.000Z,,@grypciocraft,Grypciocraft Esports,grypciocraft,,True,"GRYPCIOCRAFT - LATO UWAŻAMY ZA OTWARTE 2/2!
+
+LET THEM COOOOK!",False,,,False,False,False,51,42,424,36627,
+1659198389421211648,2023-05-18T14:04:57.000Z,,@grypciocraft,Grypciocraft Esports,grypciocraft,,True,,False,,,False,False,False,,,7,576,
+1658834178509619207,2023-05-17T13:57:42.000Z,,@grypciocraft,Grypciocraft Esports,grypciocraft,,True,"GRYPCIOCRAFT - LATO UWAŻAMY ZA OTWARTE 1/2!
+
+Przywitajcie naszego nowego trenera - @JestemMaruzeL!",False,,,False,False,False,16,13,183,13505,
+1658433462087438336,2023-05-16T11:25:24.000Z,,@grypciocraft,Grypciocraft Esports,grypciocraft,,True,Ogłoszenie składu idzie pełną parą XDD,False,,,False,False,False,4,,90,4447,
+1654446926387920896,2023-05-05T11:24:20.000Z,,@grypciocraft,Grypciocraft Esports,grypciocraft,,True,"Oggdo Bogdo, co o nim sądzicie?",False,,,False,False,False,7,12,1055,20401,
+1653812332001210406,2023-05-03T17:22:40.000Z,,@grypciocraft,Grypciocraft Esports,grypciocraft,,True,PO RESZTE ZADAŃ ZAPRASZAMY NA PW @damkeex,False,,,False,False,False,,,16,1679,
+1653811616817852432,2023-05-03T17:19:50.000Z,,@grypciocraft,Grypciocraft Esports,grypciocraft,,True,PRZECIEKI MATURALNE JĘZYK POLSKI 2023 [WAŻNE],False,,,False,False,False,4,10,280,17181,
+1653348026256093185,2023-05-02T10:37:41.000Z,,@grypciocraft,Grypciocraft Esports,grypciocraft,,True,"""Reasumując wszystkie aspekty kwintesencji tematu...""",False,,,False,False,False,,,58,4935,"{'date': '2023-05-02T10:33:16.000Z', 'user_name': '@ZiomasAM', 'real_name': 'Ziomas', 'user_verified': False, 'text': 'DEFYNITYWNIE ODRZUĆ KONWENANSE\nXDDDDDDDDDDDDDDDDD', 'has_more_text': False, 'is_pinned': False, 'is_retweet': False, 'is_reply': False}"
+1653059526667431936,2023-05-01T15:31:18.000Z,,@grypciocraft,Grypciocraft Esports,grypciocraft,,True,twoj stary w kazda majowke:,False,,,False,False,False,3,,68,2778,
+1653019387836727297,2023-05-01T12:51:48.000Z,,@grypciocraft,Grypciocraft Esports,grypciocraft,,True,,False,,,False,False,False,,,6,428,
+1653019385513009154,2023-05-01T12:51:47.000Z,,@grypciocraft,Grypciocraft Esports,grypciocraft,,True,,False,,,False,False,False,2,,21,2070,
